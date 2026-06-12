@@ -15,17 +15,5 @@ This project reproduces a published NIST fire-front propagation benchmark using 
 - Python
 - NumPy
 - Matplotlib
-## Results
 
-### Wind-Driven Circular Fire Front
-
-![Figure 1](figure1.png)
-
-### Level-Set vs MOL Comparison
-
-![Figure 2](figure2.png)
-
-### Grid Convergence Study
-
-![Convergence](convergence.png)
 
